@@ -1,0 +1,9 @@
+body{
+	/* Diseño */ 
+	font-family: 'Helveticah',Arial;
+	font-size: 17px;
+	background: url(fondo4pps.png);
+	margin: 0;
+	padding: 0;
+		color: firebrick;
+}
